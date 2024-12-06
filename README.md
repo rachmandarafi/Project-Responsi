@@ -1,6 +1,7 @@
 # responsi
 
-A new Flutter project.
+Rachmanda Rafi
+124220046
 
 ## Getting Started
 
